@@ -1,0 +1,15 @@
+Simplified Clue game engine: https://en.wikipedia.org/wiki/Cluedo
+
+Usage:
+clue.py then player types separated by comma.
+Player types are:
+h - human player
+r - random player
+p - planning player
+bn - the first BN player - bn can only be played with 3 players total, and only as the first player
+bn2 - the second BN player
+
+The rooms are described are numbers:
+Where: 1 - Study; 2 - Hall; 3 - Lounge; 4 - DinningRoom; 5 - Kitchen;
+6 - BallRoom; 7 - Conservatory; 8 - BilliardRoom; 9 - Library
+
