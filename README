@@ -1,5 +1,7 @@
 Simplified Clue game engine: https://en.wikipedia.org/wiki/Cluedo
 
+Explanation on implementations: Solving Cluedo.pdf
+
 Usage:
 clue.py then player types separated by comma.
 Player types are:
